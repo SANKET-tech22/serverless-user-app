@@ -116,5 +116,24 @@ Feel free to explore or contribute!
 ---
 
 ## 📸 Screenshots
-_Add screenshots inside an `/images` folder and reference them here:_
+
+
+### 🖥️ Frontend Application (Running UI)
+![Application UI](images/application-image.png)
+
+### 🗄️ DynamoDB – Users Table
+![DynamoDB Table](images/dynamodb-database.png)
+
+### 🧠 Lambda Functions (save_user / get_users)
+![Lambda Function](images/lambda-function.png)
+
+### 🪣 S3 Bucket – Static Website Hosting
+![S3 Bucket Hosting](images/s3-bucket.png)
+
+### 👥 Users List UI Page
+![Users List](images/Users-list.png)
+
+### 🌐 API Gateway – Resources & Methods
+![API Gateway Resources](images/API-resources.png)
+
 
